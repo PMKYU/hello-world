@@ -1,2 +1,2 @@
 # hello-world
-Practice
+This is a practice for the first-hand user to Github
